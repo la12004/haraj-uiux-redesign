@@ -47,3 +47,5 @@ User Research → Analysis → UI/UX Redesign → Interactive Prototype
 
 Figma Prototype:
 https://www.figma.com/proto/Lfvhg1Uokl1neV15UsJGYD/Haraj-application?nodeid=0-1&t=q79osc4Y5ui4wqCF-1
+
+<img width="1080" height="1350" alt="haraj-uiux-redesign" src="https://github.com/user-attachments/assets/1fb892a5-3466-4046-87ab-2880f97259b1" />
